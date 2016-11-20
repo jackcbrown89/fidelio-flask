@@ -13,11 +13,12 @@ from geopy.distance import great_circle
 from requests import get
 
 # host to listen on
-HOST = '172.25.49.64'
+HOST = '172.28.39.38'
 coordarr = []
 malarr = []
 
 def main():
+    # type: () -> object
     socket_protocol = socket.IPPROTO_ICMP
     sniffer = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket_protocol)
     sniffer.bind((HOST, 0))
@@ -62,7 +63,7 @@ def main():
         #print "ICMP -> Type:%d, Code:%d" % (icmp_header.type, icmp_header.code) + '\n'
 
         #return str(s_addr)
-        thisCoord = coord_fetch.ipinfo(ip).replace('\n', '').split(',')
+        thisCoord = coord_fetch.ipinfo(ip)
         print thisCoord
 
         if 'undefined' not in thisCoord:
@@ -74,9 +75,13 @@ def main():
 
                 if myDistance > 25:
                     malarr.append(thisCoord)
-                    print malarr
-                    app.showMap()
+                    print "malarr: %s" % malarr
+                    print "coordarr: %s" % coordarr
+                    #app.showmap(coordarr, malarr)
                 print coordarr
 
+        if len(coordarr) > 5:
+            return coordarr, malarr
+
 if __name__ == '__main__':
-    main()
+     main()

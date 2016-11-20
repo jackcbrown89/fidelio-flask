@@ -13,6 +13,12 @@
 
     <script src="https://js.arcgis.com/3.7/"></script>
     <script>
+
+    function decodeJSON(encodedJSON) {
+        var decodedJSON = $('<div/>').html(encodedJSON).text();
+        return $.parseJSON(decodedJSON);
+    }
+
       var map;
 
       require([
@@ -28,25 +34,36 @@
         map = new Map("map", {
           basemap: "streets",
           center: [-88.21,42.21],
-          zoom: 1
+          zoom: 3
         });
         map.on("load", function() {
-            arrx = {{ arrx }};//[55,22,77,33]//
-            arry = {{ arry }};//[22,33,55,44]//
+            //coordarr = {{ coordarr }}
+            //alert(coordarr);
+        arrx = {{ coordarrx }};
+         arry = {{ coordarry }};
             var ArrayLength = arrx.length - 1;
-        for (var i = 0; i < ArrayLength; i++){
+        for (var i = 1; i <= ArrayLength; i++){
           var gl = new GraphicsLayer();
           var p = new Point(arrx[i], arry[i]);
-          var s = new SimpleMarkerSymbol().setSize(5);
-          var g = new Graphic(p, s);
-          gl.add(g);
-          map.addLayer(gl);
-            }
+              var s = new SimpleMarkerSymbol().setSize(20);
+              var g = new Graphic(p, s);
+              gl.add(g);
+              map.addLayer(gl);
+                }
         });
+
       });
     </script>
   </head>
   <body>
     <div id="map"></div>
   </body>
+<div class="container">
+    <br><br><br>
+    <h1>Malicious Locations:</h1>
+    {% for n in malarr %}
+        <p>{{n}}</p>
+        {% endfor %}
+    <br><br><br>
+</div>
 </html>
