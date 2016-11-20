@@ -14,7 +14,6 @@
     <script src="https://js.arcgis.com/3.7/"></script>
     <script>
       var map;
-
       require([
         "esri/map",
         "esri/geometry/Point",
@@ -50,3 +49,50 @@
     <div id="map"></div>
   </body>
 </html>
+
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<html>
+
+<table>
+  <tr>
+    <th>Co-Ordinates</th>
+    <th>City</th>
+  </tr>
+	<body>
+	<script language="javascript" type="text/javascript">
+	for (var a=0; a < 10; a++) {
+	document.write("<tr>");
+	for(var b=0; b<2; b++) {
+	document.write("<td>"+(a*b)+"</td>");
+	}
+	document.write("</tr>");
+	}
+	</script>
+</body>
+ 
+ 
+</table>
+
+</body>
+</html>
+
