@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Jack Brown rocks!</title>
+    <link rel="stylesheet" href="https://js.arcgis.com/3.7/js/esri/css/esri.css">
+    <style>
+      html, body, #map {
+        height: 100%; width: 100%; margin: 0; padding: 0;
+      }
+    </style>
+
+    <script src="https://js.arcgis.com/3.7/"></script>
+    <script>
+      var map;
+
+      require([
+        "esri/map",
+        "esri/geometry/Point",
+        "esri/symbols/SimpleMarkerSymbol",
+        "esri/graphic",
+        "esri/layers/GraphicsLayer",
+        "dojo/domReady!"
+      ], function(
+        Map, Point, SimpleMarkerSymbol, Graphic, GraphicsLayer
+      ) {
+        map = new Map("map", {
+          basemap: "streets",
+          center: [-88.21,42.21],
+          zoom: 1
+        });
+        map.on("load", function() {
+            arrx = {{ arrx }};//[55,22,77,33]//
+            arry = {{ arry }};//[22,33,55,44]//
+            var ArrayLength = arrx.length - 1;
+        for (var i = 0; i < ArrayLength; i++){
+          var gl = new GraphicsLayer();
+          var p = new Point(arrx[i], arry[i]);
+          var s = new SimpleMarkerSymbol().setSize(5);
+          var g = new Graphic(p, s);
+          gl.add(g);
+          map.addLayer(gl);
+            }
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <div id="map"></div>
+  </body>
+</html>
