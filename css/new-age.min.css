@@ -398,7 +398,7 @@ footer p, footer ul li a {
 }
 
 footer, footer ul li a {
-    color: rgba(255, 255, 255, .3)
+    color: rgba(255, 255, 255, 0.3)
 }
 
 section.contact ul.list-social li.social-twitter a {

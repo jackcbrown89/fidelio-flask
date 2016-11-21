@@ -372,7 +372,7 @@ section.contact ul.list-social li.social-google-plus a:hover {
 footer {
   background-color: #222222;
   padding: 25px 0;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, .3);
   text-align: center;
 }
 footer p {
@@ -384,7 +384,7 @@ footer ul {
 }
 footer ul li a {
   font-size: 12px;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, .3);
 }
 footer ul li a:hover,
 footer ul li a:focus,

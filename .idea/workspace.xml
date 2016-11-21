@@ -2,339 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe826832-1903-4ae1-925e-a0908d924b1a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/bg-cta.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/bg-pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/demo-screen-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/apple_watch/edition/gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/apple_watch/edition/rose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/apple_watch/sport/black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/apple_watch/sport/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/apple_watch/sport/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/apple_watch/sport/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/apple_watch/sport/white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/apple_watch/watch/metal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/apple_watch/watch/steel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_s3/s3_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_s3/s3_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_s3/s3_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_s3/s3_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_s5/galaxy_s5_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_s5/galaxy_s5_land_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_s5/galaxy_s5_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_s5/galaxy_s5_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_s5/galaxy_s5_port_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_s5/galaxy_s5_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_tab4/galaxy_tab4_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_tab4/galaxy_tab4_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_tab4_small/galaxy_tab4_black_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/galaxy_tab4_small/galaxy_tab4_white_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/imac/imac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad/ipad_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad/ipad_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad/ipad_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad/ipad_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_air/ipad_air_gray_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_air/ipad_air_gray_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_air/ipad_air_silver_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_air/ipad_air_silver_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_air_2/ipad_air_2_gold_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_air_2/ipad_air_2_gold_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_air_2/ipad_air_2_gray_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_air_2/ipad_air_2_gray_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_air_2/ipad_air_2_silver_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_air_2/ipad_air_2_silver_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_pro/ipad_pro_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_pro/ipad_pro_land_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_pro/ipad_pro_land_silver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_pro/ipad_pro_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_pro/ipad_pro_port_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/ipad_pro/ipad_pro_port_silver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone5/iphone5_land.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone5/iphone5_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone5/iphone5_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone5/iphone5_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone5/iphone5_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6/iphone_6_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6/iphone_6_land_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6/iphone_6_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6/iphone_6_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6/iphone_6_port_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6/iphone_6_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6_plus/iphone_6_plus_black_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6_plus/iphone_6_plus_black_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6_plus/iphone_6_plus_gold_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6_plus/iphone_6_plus_gold_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6_plus/iphone_6_plus_white_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_se/iphone_se_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_se/iphone_se_land_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_se/iphone_se_land_rose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_se/iphone_se_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_se/iphone_se_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_se/iphone_se_port_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_se/iphone_se_port_rose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/iphone_se/iphone_se_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/lumia920/lumia920_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/lumia920/lumia920_land.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/lumia920/lumia920_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/lumia_930/lumia_930_dark_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/lumia_930/lumia_930_dark_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/lumia_930/lumia_930_light_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/lumia_930/lumia_930_light_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/macbook/macbook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/macbook_2015/gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/macbook_2015/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/macbook_2015/silver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/nexus7/nexus7_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/nexus7/nexus7_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/nexus_6/nexus_6_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/nexus_6/nexus_6_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/samsung_tv/samsung_tv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/surface/surface.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/img/bg-cta.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/img/bg-pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/img/demo-screen-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/apple_watch/edition/gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/apple_watch/edition/rose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/apple_watch/sport/black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/apple_watch/sport/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/apple_watch/sport/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/apple_watch/sport/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/apple_watch/sport/white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/apple_watch/watch/metal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/apple_watch/watch/steel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_s3/s3_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_s3/s3_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_s3/s3_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_s3/s3_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_s5/galaxy_s5_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_s5/galaxy_s5_land_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_s5/galaxy_s5_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_s5/galaxy_s5_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_s5/galaxy_s5_port_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_s5/galaxy_s5_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_tab4/galaxy_tab4_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_tab4/galaxy_tab4_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_tab4_small/galaxy_tab4_black_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/galaxy_tab4_small/galaxy_tab4_white_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/imac/imac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad/ipad_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad/ipad_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad/ipad_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad/ipad_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_air/ipad_air_gray_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_air/ipad_air_gray_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_air/ipad_air_silver_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_air/ipad_air_silver_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_air_2/ipad_air_2_gold_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_air_2/ipad_air_2_gold_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_air_2/ipad_air_2_gray_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_air_2/ipad_air_2_gray_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_air_2/ipad_air_2_silver_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_air_2/ipad_air_2_silver_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_pro/ipad_pro_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_pro/ipad_pro_land_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_pro/ipad_pro_land_silver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_pro/ipad_pro_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_pro/ipad_pro_port_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/ipad_pro/ipad_pro_port_silver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone5/iphone5_land.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone5/iphone5_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone5/iphone5_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone5/iphone5_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone5/iphone5_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6/iphone_6_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6/iphone_6_land_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6/iphone_6_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6/iphone_6_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6/iphone_6_port_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6/iphone_6_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6_plus/iphone_6_plus_black_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6_plus/iphone_6_plus_black_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6_plus/iphone_6_plus_gold_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6_plus/iphone_6_plus_gold_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6_plus/iphone_6_plus_white_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_se/iphone_se_land_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_se/iphone_se_land_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_se/iphone_se_land_rose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_se/iphone_se_land_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_se/iphone_se_port_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_se/iphone_se_port_gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_se/iphone_se_port_rose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/iphone_se/iphone_se_port_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/lumia920/lumia920_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/lumia920/lumia920_land.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/lumia920/lumia920_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/lumia_930/lumia_930_dark_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/lumia_930/lumia_930_dark_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/lumia_930/lumia_930_light_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/lumia_930/lumia_930_light_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/macbook/macbook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/macbook_2015/gold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/macbook_2015/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/macbook_2015/silver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/nexus7/nexus7_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/nexus7/nexus7_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/nexus_6/nexus_6_land.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/nexus_6/nexus_6_port.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/samsung_tv/samsung_tv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/surface/surface.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/new-age.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/new-age.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/extras/ClusterLayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/extras/ClusterLayer/extras/ClusterLayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/app-store-badge.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/google-play-badge.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/new-age.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/new-age.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/less/new-age.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/device-mockups.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/device-mockups.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/device-mockups2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/device-mockups/device-mockups2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/simple-line-icons/css/simple-line-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/simple-line-icons/less/simple-line-icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendor/simple-line-icons/scss/simple-line-icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/new-age.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/new-age.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/extras/ClusterLayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/extras/ClusterLayer/extras/ClusterLayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/img/app-store-badge.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/img/google-play-badge.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/new-age.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/new-age.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/less/new-age.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/device-mockups.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/device-mockups.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/device-mockups2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/device-mockups/device-mockups2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/simple-line-icons/css/simple-line-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/simple-line-icons/less/simple-line-icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/vendor/simple-line-icons/scss/simple-line-icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fidelio-flask.iml" afterPath="$PROJECT_DIR$/.idea/fidelio-flask.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getteslaloc.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coord_fetch.py" afterPath="$PROJECT_DIR$/coord_fetch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/new-age.css" afterPath="$PROJECT_DIR$/css/new-age.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/new-age.min.css" afterPath="$PROJECT_DIR$/css/new-age.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ip_header_decode.py" afterPath="$PROJECT_DIR$/ip_header_decode.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/new-age.less" afterPath="$PROJECT_DIR$/less/new-age.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/business.html" afterPath="$PROJECT_DIR$/templates/business.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/new-age.css" afterPath="$PROJECT_DIR$/static/css/new-age.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/locate.html" afterPath="$PROJECT_DIR$/templates/locate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/device-mockups/device-mockups.min.css" afterPath="$PROJECT_DIR$/vendor/device-mockups/device-mockups.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/device-mockups/device-mockups2.min.css" afterPath="$PROJECT_DIR$/vendor/device-mockups/device-mockups2.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" />
     </list>
     <ignored path="fidelio-flask.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -349,6 +22,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/fidelio-flask$ip_header_decode.coverage" NAME="ip_header_decode Coverage Results" MODIFIED="1479645603527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fidelio-flask$app.coverage" NAME="app Coverage Results" MODIFIED="1479611345702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fidelio-flask$getteslaloc.coverage" NAME="getteslaloc Coverage Results" MODIFIED="1479767570522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fidelio-flask$coord_fetch.coverage" NAME="coord_fetch Coverage Results" MODIFIED="1479645440345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -363,8 +37,8 @@
       <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="e#0#89#0" expanded="true" />
               </folding>
@@ -372,11 +46,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+            <state relative-caret-position="673">
+              <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getteslaloc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getteslaloc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <element signature="e#14#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coord_fetch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coord_fetch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -385,18 +81,18 @@
       <file leaf-file-name="locate.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/locate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            <state relative-caret-position="15">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ip_header_decode.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ip_header_decode.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ip_header_decode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="236">
+              <caret line="79" column="50" selection-start-line="79" selection-start-column="50" selection-end-line="79" selection-end-column="50" />
               <folding>
                 <element signature="e#43#56#0" expanded="true" />
               </folding>
@@ -423,8 +119,12 @@
         <option value="$PROJECT_DIR$/coord_fetch.py" />
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/templates/locate.html" />
-        <option value="$PROJECT_DIR$/ip_header_decode.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/static/css/new-age.css" />
+        <option value="$PROJECT_DIR$/css/new-age.min.css" />
+        <option value="$PROJECT_DIR$/teslajson.py" />
+        <option value="$PROJECT_DIR$/getteslaloc.py" />
+        <option value="$PROJECT_DIR$/ip_header_decode.py" />
       </list>
     </option>
   </component>
@@ -437,7 +137,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -464,7 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -483,40 +182,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fidelio-flask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fidelio-flask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fidelio-flask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fidelio-flask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -565,7 +233,7 @@
       <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ip_header_decode">
+  <component name="RunManager" selected="Python.getteslaloc">
     <configuration default="false" name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -616,6 +284,24 @@
       <module name="fidelio-flask" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coord_fetch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="getteslaloc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fidelio-flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getteslaloc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -828,16 +514,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.app" />
       <item index="1" class="java.lang.String" itemvalue="Python.ip_header_decode" />
       <item index="2" class="java.lang.String" itemvalue="Python.coord_fetch" />
+      <item index="3" class="java.lang.String" itemvalue="Python.getteslaloc" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.ip_header_decode" />
-        <item index="1" class="java.lang.String" itemvalue="Python.coord_fetch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.app" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.getteslaloc" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ip_header_decode" />
+        <item index="2" class="java.lang.String" itemvalue="Python.coord_fetch" />
+        <item index="3" class="java.lang.String" itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
@@ -855,27 +543,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3319149" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33050847" sideWeight="0.5143061" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.49427754" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33050847" sideWeight="0.48569384" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3319149" sideWeight="0.49427754" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -894,6 +582,60 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getteslaloc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coord_fetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/locate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ip_header_decode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#43#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -963,13 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/new-age.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1875">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/vendor/jquery/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -984,36 +719,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coord_fetch.py">
+    <entry file="file://$PROJECT_DIR$/static/css/new-age.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="5790">
+          <caret line="386" column="31" selection-start-line="386" selection-start-column="31" selection-end-line="386" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ip_header_decode.py">
+    <entry file="file://$PROJECT_DIR$/css/new-age.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="e#43#56#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="20">
+          <caret line="396" column="19" selection-start-line="396" selection-start-column="19" selection-end-line="396" selection-end-column="19" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/teslajson.py" />
     <entry file="file://$PROJECT_DIR$/templates/locate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        <state relative-caret-position="15">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="e#0#89#0" expanded="true" />
           </folding>
@@ -1022,9 +754,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+        <state relative-caret-position="673">
+          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coord_fetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getteslaloc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ip_header_decode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="79" column="50" selection-start-line="79" selection-start-column="50" selection-end-line="79" selection-end-column="50" />
+          <folding>
+            <element signature="e#43#56#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

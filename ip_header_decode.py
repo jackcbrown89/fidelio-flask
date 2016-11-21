@@ -13,7 +13,7 @@ from geopy.distance import great_circle
 from requests import get
 
 # host to listen on
-HOST = '172.28.39.38'
+HOST = '192.168.1.175'
 coordarr = []
 malarr = []
 
@@ -48,8 +48,8 @@ def main():
         iph_length   = ihl * 4
         ttl = iph[5]
         protocol = iph[6]
-        s_addr = socket.inet_ntoa(iph[8]);
-        d_addr = socket.inet_ntoa(iph[9]);
+        s_addr = socket.inet_ntoa(iph[8])
+        d_addr = socket.inet_ntoa(iph[9])
         ip = str(s_addr)
 
         # print 'IP -> Version:' + str(version) + ', Header Length:' + str(ihl) + \
